@@ -1,6 +1,6 @@
 # Multiple Comparisons
 
-The code in this repository is used to run numerical experiments evaluating the Benjamini-Hochberg and Benjamni-Yekutieli procedures in two educational data mining research scenarios.
+The code in this repository is used to run numerical experiments evaluating the Benjamini-Hochberg and Benjamini-Yekutieli procedures in two educational data mining research scenarios.
 
 # Requirements
 
